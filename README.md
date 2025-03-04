@@ -1,6 +1,5 @@
 <h1>API REST de Livraria com Node.js, Express.js e MongoDB</h1><br>
 <h2>📌 Sobre o Projeto</h2>
-<h3>🛠 Tecnologias Utilizadas</h3>
 
 <p>Este projeto tem como objetivo expandir o meu conhecimento na criação de APIs REST utilizando JavaScript (Node.js), 
   juntamente com a biblioteca Express.js para a construção do servidor e o MongoDB para a persistência dos dados.
